@@ -9,7 +9,7 @@
  #  项目资料获取方式
  *  需要资料或者有任何问题的加QQ：2684634017
 
- *  项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30495
+ *  项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=30495
    
  #  项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/30495/%E5%9F%BA%E4%BA%8ESpringBoot%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B0%91%E5%AE%BF%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91(%E7%BC%96%E5%8F%B7%EF%BC%9A3338746).mp4
           
